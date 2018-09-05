@@ -1,0 +1,11 @@
+C:\Users\geomi\source\repos\SalesReports\SalesReports\bin\Debug\SalesReports.exe.config
+C:\Users\geomi\source\repos\SalesReports\SalesReports\bin\Debug\SalesReports.exe
+C:\Users\geomi\source\repos\SalesReports\SalesReports\bin\Debug\SalesReports.pdb
+C:\Users\geomi\source\repos\SalesReports\SalesReports\obj\Debug\SalesReports.csprojResolveAssemblyReference.cache
+C:\Users\geomi\source\repos\SalesReports\SalesReports\obj\Debug\SalesReports.Form1.resources
+C:\Users\geomi\source\repos\SalesReports\SalesReports\obj\Debug\SalesReports.Properties.Resources.resources
+C:\Users\geomi\source\repos\SalesReports\SalesReports\obj\Debug\SalesReports.csproj.GenerateResource.Cache
+C:\Users\geomi\source\repos\SalesReports\SalesReports\obj\Debug\SalesReports.csproj.CoreCompileInputs.cache
+C:\Users\geomi\source\repos\SalesReports\SalesReports\obj\Debug\SalesReports.exe
+C:\Users\geomi\source\repos\SalesReports\SalesReports\obj\Debug\SalesReports.pdb
+C:\Users\geomi\source\repos\SalesReports\SalesReports\bin\Debug\Bunifu_UI_v1.5.3.dll
